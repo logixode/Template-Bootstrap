@@ -25,4 +25,24 @@ git clone https://github.com/logixode/Template-Bootstrap.git
 http://localhost/Template-Bootstrap
 ```
 - Dan selesai
+
+## Stucture Directory
+```
+Template-Bootstrap
+    ├── accordion.html
+    ├── alert.html
+    ├── breadcrumb.html
+    ├── button.html
+    ├── card.html
+    ├── collapse.html
+    ├── dropdown.html
+    ├── form.html
+    ├── index.php
+    ├── modal.html
+    ├── README.md
+    └── src/
+        ├── css/
+        └── js/
+```
+
 #### This Repository had been Tested on Linux Mint
